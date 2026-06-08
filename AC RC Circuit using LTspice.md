@@ -1,4 +1,5 @@
-<img width="1917" height="1101" alt="image" src="https://github.com/user-attachments/assets/0a4f7a99-672a-47ef-8801-c05396a2d169" />
+<img width="1090" height="459" alt="image" src="https://github.com/user-attachments/assets/193a5567-b00b-49de-bff3-97d6ef1d43d8" />
+
 
 This is an AC circuit simulation project that I set up in LTSpice to analyze the frequency behavior of a series resistor and capacitor network. The circuit is powered by an independent AC voltage source where I configured the parameters to run a frequency sweep to see how the output levels react. I routed the source voltage directly into a 2 ohm resistor which is connected in series with a 0.5 microfarad capacitor going down to the common ground reference node. I set up two distinct output testing points on the schematic with node a measuring the voltage across the entire network and node b measuring the voltage directly across the capacitor.
 
